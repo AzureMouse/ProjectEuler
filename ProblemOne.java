@@ -35,6 +35,7 @@ public class ProblemOne{
 
         return sum;
     }
+    
     public static void main(String[] args){
         System.out.println(sumMultiples(1000));
     }
